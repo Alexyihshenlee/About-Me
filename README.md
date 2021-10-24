@@ -1,0 +1,4 @@
+- 👋 Hi, I’m lee yih shen.
+- 😎 I'm born in 2005, curently a high-school student
+- 👀 I’m interested in chess and coding.
+- 🌱 I’m currently learning HTML, CSS and Javascript.
